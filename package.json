@@ -1,0 +1,22 @@
+{
+  "name": "auto12306",
+  "version": "1.0.0",
+  "description": "调用免费接口自动识别火车票验证码。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisniuse/auto12306.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisniuse/auto12306/issues"
+  },
+  "homepage": "https://github.com/lisniuse/auto12306#readme",
+  "dependencies": {
+    "flyio": "^0.6.9"
+  }
+}
